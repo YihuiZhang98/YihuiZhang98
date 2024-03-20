@@ -1,5 +1,4 @@
-### Hi there 👋
-
+<!--
 **YihuiZhang98/YihuiZhang98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -12,3 +11,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+### Hi there 👋
+- 🔭 I’m currently working on my personal page
+- 🌱 I’m currently learning React
+- ⚡ My dream is to make my own games
+- 📫 How to reach me: zhangyihuiben@sina.com/zhangyihuiben@google.com
